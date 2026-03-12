@@ -13,6 +13,7 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 *After the success of BERT, GPT, and other LLMs in NLP, some researchers have proposed to apply LLMs to Time Series (TS) tasks. They fintune the LLMs on TS datasets and achieve state-of-the-art results.*
 
+* LLM4Time: Uma Ferramenta Interativa para Previsão de Séries Temporais com Modelos Largos de Linguagem, in *SBC* 2025 [\[Paper\]](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/37575).
 * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting Hao, in *arXiv* 2022. [\[Paper\]](https://arxiv.org/abs/2210.08964)
 * One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2302.11939)
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2306.11025)
